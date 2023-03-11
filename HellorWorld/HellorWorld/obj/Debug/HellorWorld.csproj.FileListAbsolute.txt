@@ -1,0 +1,16 @@
+D:\Programação\HellorWorld\HellorWorld\bin\Debug\HellorWorld.exe.config
+D:\Programação\HellorWorld\HellorWorld\bin\Debug\HellorWorld.exe
+D:\Programação\HellorWorld\HellorWorld\bin\Debug\HellorWorld.pdb
+D:\Programação\HellorWorld\HellorWorld\obj\Debug\HellorWorld.csproj.AssemblyReference.cache
+D:\Programação\HellorWorld\HellorWorld\obj\Debug\HellorWorld.csproj.SuggestedBindingRedirects.cache
+D:\Programação\HellorWorld\HellorWorld\obj\Debug\HellorWorld.csproj.CoreCompileInputs.cache
+D:\Programação\HellorWorld\HellorWorld\obj\Debug\HellorWorld.exe
+D:\Programação\HellorWorld\HellorWorld\obj\Debug\HellorWorld.pdb
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\obj\Debug\HellorWorld.csproj.AssemblyReference.cache
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\obj\Debug\HellorWorld.csproj.SuggestedBindingRedirects.cache
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\obj\Debug\HellorWorld.csproj.CoreCompileInputs.cache
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\obj\Debug\HellorWorld.exe
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\obj\Debug\HellorWorld.pdb
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\bin\Debug\HellorWorld.exe.config
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\bin\Debug\HellorWorld.exe
+D:\Programação\Estudos-CSharp\HellorWorld\HellorWorld\bin\Debug\HellorWorld.pdb
